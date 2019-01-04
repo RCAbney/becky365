@@ -11,7 +11,7 @@
 
         <div class="col-md-3 col-sm-6">
             <?php
-the_post_thumbnail('post-thumbnail', ['class' => 'img-responsive responsive--full', 'title' => 'Feature image']);
+the_post_thumbnail('post-thumbnail', ['class' => 'img-responsive responsive--full folio-pic', 'title' => 'Feature image']);
 			?>
             <div class="folio-item" id="post-<?php the_ID(); ?>">
                 <div class="folio-item-details">

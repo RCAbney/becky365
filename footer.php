@@ -12,14 +12,14 @@
 ?>
 
 	</div><!-- #content -->
-
-	<footer id="colophon" class="site-footer">
+<div class="container">
+	<footer>
 		<div class="site-info">
-				<p>
-					&copy; 2019 - BECKY365
-			</p>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+			<p>&copy; 2019 - BECKY365</p>
+		
+	</footer>
+</div><!-- footer container -->
+
 </div><!-- #page -->
 
 <?php wp_footer(); ?>

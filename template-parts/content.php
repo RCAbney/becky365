@@ -26,8 +26,6 @@
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 
-	<?php becky_post_thumbnail(); ?>
-
 	<div class="entry-content">
 
 		<?php
