@@ -62,7 +62,7 @@ get_header();
 		?>
 	</div><!-- end grid-item row no-gutter-->
 </div><!-- end container-fluid -->
-<div id="contact" class="container-fluid">
+<!-- comment out content for future use <div id="contact" class="container-fluid">
     <div class="section-headline">
         <h2>CONTACT</h2>
         <p>Let's do lunch sometime.</p>
@@ -72,7 +72,7 @@ get_header();
             <a href="#" target="_blank"><img src="http://www.rcabneystudios.com/fcc/portfolio/linkedin.png" alt="" /></a>
         </div>
     </div>
-</div>
+</div> -->
 <?php
 get_sidebar();
 get_footer();

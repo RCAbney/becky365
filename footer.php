@@ -13,8 +13,8 @@
 
 	</div><!-- #content -->
 <div class="container">
-	<footer>
-		<div class="site-info">
+	<footer class="site-footer">
+		
 			<p>&copy; 2019 - BECKY365</p>
 		
 	</footer>
